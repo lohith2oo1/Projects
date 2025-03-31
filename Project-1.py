@@ -1,1 +1,1 @@
-printf("Hello Sai Lohith")
+print("The name of your drink is \n" +input("What is your favourite colour? :")+" "+input("Which city you want to visit? :")+"\nCongratulations! You named your drink.")
